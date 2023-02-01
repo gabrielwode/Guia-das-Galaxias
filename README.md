@@ -23,7 +23,8 @@
     </ul>
 
     <a target="_blank" href="https://pt.wikipedia.org/wiki/Gal%C3%A1xia">Saiba mais sobre galáxia clicando aqui</a>
-    <hr>
+    
+ <hr>
 
   <h3>Conheça alguns exemplos de galáxias</h3>
   <p>
