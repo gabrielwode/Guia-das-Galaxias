@@ -23,6 +23,47 @@
     </ul>
 
     <a target="_blank" href="https://pt.wikipedia.org/wiki/Gal%C3%A1xia">Saiba mais sobre galáxia clicando aqui</a>
+  <table border="5">
+    <h3>Massas do Sistema Solar</h3>
+<thead>
+  <tr>
+    <th>Componente</th>
+    <th>Massa</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Sol</td>
+    <td>99,85%</td>
+  </tr>
+  <tr>
+    <td>Júpiter</td>
+    <td>0,10%</td>
+  </tr>
+  <tr>
+    <td>Demais Planetas</td>
+    <td>0,04%</td>
+  </tr>
+  <tr>
+    <td>Cometas</td>
+    <td>0,01% (?)</td>
+  </tr>
+  <tr>
+    <td>Satélites e anéis</td>
+    <td>0,000 05%</td>
+  </tr>
+  <tr>
+    <td>Asteroides</td>
+    <td>0,000 000 2%</td>
+  </tr>
+  <tr>
+    <td>Meteoritos e poeira</td>
+    <td>0,000 000 1% (?)</td>
+  </tr>
+</tbody>
+
+
+  </table>
     
  <hr>
 
