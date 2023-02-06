@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>Guia das Galáxias</title>
+</head>
 <body>
   <h1>Guia das Galáxias</h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg" width="400" height="218" >
@@ -21,11 +27,13 @@
       <li>Normais</li>
       <li>Anãs</li>
     </ul>
-    <a target="_blank" href="https://pt.wikipedia.org/wiki/Gal%C3%A1xia">Saiba mais sobre galáxia clicando aqui</a>
-    <br><br>
+  <p>
+      <a target="_blank" href="https://pt.wikipedia.org/wiki/Gal%C3%A1xia">Saiba mais sobre galáxia clicando aqui</a>
+  </p>
+  <p>
     <a target="_blank" href="../Forms/Exercicio.html" >Cadastre-se para receber mais informações</a>
-    
-    <table border="5">
+  </p>
+<table border="5">
       <h3>Massas do Sistema Solar</h3>
   <thead>
     <tr>
@@ -63,7 +71,7 @@
       <td>0,000 000 1% (?)</td>
     </tr>
   </tbody>  
-  </table>
+</table>
     <hr>
   <h3>Conheça alguns exemplos de galáxias</h3>
   <p>
@@ -75,6 +83,5 @@
   <p>
     <a href="Orion.html">Órion</a>
   </p>
- 
 </body>
 </html>
